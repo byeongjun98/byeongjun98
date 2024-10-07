@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## ✨ 스킬
 
-### 📖 언어
+###  언어
 
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=000000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF)
