@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-![byeongjun98's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongjun98&show_icons=true&theme=radical)
-
+[![byeongjun98's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongjun98)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
