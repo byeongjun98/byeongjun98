@@ -17,60 +17,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--타이틀 부분-->
+## ❓ 소개
 
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-</div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div>
+## ✨ 스킬
 
-<br>
+### 📖 언어
 
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-</div>
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/Java-F8981D?style=flat-square&logo=OpenJDK&logoColor=000000&color=fedcba)
 
-<br>
+###  런타임 및 프레임워크
 
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=FFFFFF)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=FFFFFF)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=FFFFFFF)
 
-<br>
+###  도구
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
+![NaverCloud](https://img.shields.io/badge/Naver_Cloud-03C75A?style=flat-square&logo=naver&logoColor=FFFFFF)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-5A5A5A?style=flat-square&logo=IntelliJIDEA&logoColor=FFFFFF)
+![WebStorm](https://img.shields.io/badge/WebStorm-07B2F4?style=flat-square&logo=WebStorm&logoColor=FFFFFF)
+![VisualStudio](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=FFFFFF)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=000000)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF)
+![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=FFFFFF)
 
-<div align="center">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
-
-<br>
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@oka1313">
-  </a>
-  <a href="mailto:degea98@gmail.com">
-    <img
-      src="https://img.shields.io/badge/degea98@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
