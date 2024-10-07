@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to ByeongJun's github 👋
 
 <!--
 **byeongjun98/byeongjun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
