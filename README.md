@@ -1,4 +1,5 @@
-## Welcome to ByeongJun's github 👋
+## Welcome to byeongjun's github 👋
+박병준입니다.
 
 <!--
 **byeongjun98/byeongjun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ❓ 소개
+##  소개
+백엔드 개발자 박병준입니다.
 
-
-## ✨ 스킬
+##  스킬
 
 ###  언어
 
