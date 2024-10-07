@@ -6,7 +6,6 @@
 
 Here are some ideas to get you started:
 
-[![byeongjun98's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongjun98)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -21,9 +20,9 @@ Here are some ideas to get you started:
 ##  소개
 백엔드 개발자 박병준입니다.
 
-[![byeongjun98's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongjun98&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
+[![byeongjun98's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongjun98&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/byeongjun98/github-readme-stats)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbi-sz&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyeongjun98&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 ##  스킬
 
