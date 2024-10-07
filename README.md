@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 ##  소개
 백엔드 개발자 박병준입니다.
 
+[![byeongjun98's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongjun98&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbi-sz&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)  
+
 ##  스킬
 
 ###  언어
@@ -46,4 +50,6 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF)
 ![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=FFFFFF)
+
+
 
