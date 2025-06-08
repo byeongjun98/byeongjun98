@@ -1,7 +1,7 @@
 ## Welcome to byeongjun's github 👋
 박병준입니다.
 
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fbyeongjun98?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fbyeongjun98?color=green&label=hits&size=small)](https://myhits.vercel.app)
 
 <!--
 **byeongjun98/byeongjun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
