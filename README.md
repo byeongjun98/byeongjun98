@@ -1,5 +1,5 @@
 ## Welcome to byeongjun's github 👋
-박병준입니다.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!👋)](https://git.io/typing-svg)
 
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fbyeongjun98?color=green&label=hits&size=small)](https://myhits.vercel.app)
 
