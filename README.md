@@ -22,10 +22,9 @@ Here are some ideas to get you started:
 ##  소개
 백엔드 개발자 박병준입니다.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeongjun98)](https://github.com/anuraghazra/github-readme-stats)
+
 [![byeongjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongjun98)](https://github.com/anuraghazra/github-readme-stats)
-
-[![byeongjun98's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongjun98&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ##  스킬
 
 ###  언어
