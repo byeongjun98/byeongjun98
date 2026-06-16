@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 [![byeongjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongjun98)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
 ##  스킬
 
 ###  언어
@@ -65,3 +66,5 @@ Here are some ideas to get you started:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byeongjun98&theme=transparent&layout=compact&langs_count=10"/></a>
+<br>
